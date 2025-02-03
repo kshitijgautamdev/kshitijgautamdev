@@ -29,7 +29,6 @@
 
 
 ### 🌍 I'm based in Jaipur, Rajasthan, India  
-### ✉️ You can contact me at [kshitijgautam@ymail.com](mailto:kshitijgautam@ymail.com)  
 ### 🧠 I'm learning AI and ML  
 ### 🤝 I'm open to collaborating on AI models or Apple VisionKit  
 
@@ -65,6 +64,7 @@ I craft solutions, focusing on scalable, intuitive user experiences. My goal is 
 
 ### 📬 Let’s Collaborate!
 I’d love to connect and bring your ideas to life. Let’s create something amazing together!
+### ✉️ You can contact me at [kshitijgautam@ymail.com](mailto:kshitijgautam@ymail.com)  
 
 ---
 
